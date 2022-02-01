@@ -1,9 +1,10 @@
 # BlogDaily
 
-# This is a Basic Blog website!!!
+# This is a BlogDaily website!!!
 
-Basic JavaScript /HTML /CSS/ Express.Js Application
+A website to bring out the writer in you.
+
+Tech Stack : JavaScript /HTML /CSS/ /Bootstrap / Express.Js / Node.Js
 
 Hosted at: https://floating-depths-91485.herokuapp.com/
 
-A new article can be composed by visiting : https://floating-depths-91485.herokuapp.com/compose
